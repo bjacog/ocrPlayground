@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>760224605074-6tb43ob9ddp6pm3hpoqi2l99k0fqoq01.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.760224605074-6tb43ob9ddp6pm3hpoqi2l99k0fqoq01</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB49JayHP4ux0mTmuX36QjnUI2AbTtJ8e0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>760224605074</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ocrPlayground</string>
+	<key>PROJECT_ID</key>
+	<string>ocrplayground-18197</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ocrplayground-18197.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:760224605074:ios:5016b4f10bf27f46d5974b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ocrplayground-18197.firebaseio.com</string>
+</dict>
+</plist>
